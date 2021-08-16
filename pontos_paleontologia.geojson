@@ -1,8 +1,23 @@
 {
-"type": "FeatureCollection",
-"name": "pontos_paleontologia",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "paleo_link": "<a href=http:\\\/\\\/afloramentos.com\\\/paleo_ 6266401\\>paleo_ 6266401", "paleo_clas": null }, "geometry": { "type": "Point", "coordinates": [ -39.838888880000013, -4.030555554999978 ] } }
-]
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "paleo_link": "<a href=http:\\\\\\/\\\\\\/afloramentos.com\\\\\\/placas-dentarias-de-dipnoiformes\\\\>Placas Dentárias de Dipnoiformes",
+        "paleo_pop_up": "",
+        "paleo_nome": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.395278,
+          -23.519444
+        ]
+      }
+    }
+  ]
 }
