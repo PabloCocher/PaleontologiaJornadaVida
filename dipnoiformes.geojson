@@ -96,6 +96,22 @@
           -2.3975
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "paleo_link": "<a href=http://afloramentos.com/placas-dentarias-de-dipnoiformes\\>Placas Dentárias de Dipnoiformes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.660555550000026,
+          -21.985
+        ]
+      }
     }
   ]
 }
