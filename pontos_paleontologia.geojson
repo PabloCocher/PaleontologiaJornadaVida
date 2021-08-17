@@ -6,16 +6,94 @@
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "small",
-        "marker-symbol": "circle",
-        "paleo_link": "<a href=http:\\\\\\/\\\\\\/afloramentos.com\\\\\\/placas-dentarias-de-dipnoiformes\\\\>Placas Dentárias de Dipnoiformes",
-        "paleo_pop_up": "",
-        "paleo_nome": ""
+        "marker-symbol": "",
+        "paleo_link": "<a href=http://afloramentos.com/placas-dentarias-de-dipnoiformes\\>Placas Dentárias de Dipnoiformes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -48.395278,
-          -23.519444
+          -46.711944440000025,
+          -22.381944439999984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "paleo_link": "<a href=http://afloramentos.com/placas-dentarias-de-dipnoiformes\\>Placas Dentárias de Dipnoiformes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.39527777,
+          -23.519444439999972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "paleo_link": "<a href=http://afloramentos.com/placas-dentarias-de-dipnoiformes\\>Placas Dentárias de Dipnoiformes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.33916665999999,
+          -30.33916665999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "paleo_link": "<a href=http://afloramentos.com/placas-dentarias-de-dipnoiformes\\>Placas Dentárias de Dipnoiformes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.14638888000002,
+          -7.257222220000017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "paleo_link": "<a href=http://afloramentos.com/placas-dentarias-de-dipnoiformes\\>Placas Dentárias de Dipnoiformes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.84583333,
+          -8.68916667000002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "paleo_link": "<a href=http://afloramentos.com/placas-dentarias-de-dipnoiformes\\>Placas Dentárias de Dipnoiformes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.40444444000002,
+          -2.3975
         ]
       }
     }
